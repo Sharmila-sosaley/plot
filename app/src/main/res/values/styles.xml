@@ -1,0 +1,28 @@
+<resources>
+
+<!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <string name="country_prompt">Choose a lead</string>
+
+    <string-array name="leadd_array">
+        <item>Lead1</item>
+        <item>Lead2</item>
+        <item>Lead3</item>
+        <item>Lead4</item>
+        <item>Lead5</item>
+        <item>Lead6</item>
+        <item>Lead7</item>
+        <item>Lead8</item>
+        <item>lead9</item>
+        <item>lead10</item>
+        <item>lead11</item>
+        <item>lead12</item>
+    </string-array>
+
+</resources>
